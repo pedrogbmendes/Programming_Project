@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1432330865 source:/home/pedro/Documents/projeto_final/projetofinal/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"map.h"
+	"robot_list.h"
+	"graphic.h"
+	"move_robot.h"
+
+1432331387 source:/home/pedro/Documents/projeto_final/projetofinal/graphic.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"map.h"
+	"robot_list.h"
+	"graphic.h"
+
+1432331296 source:/home/pedro/Documents/projeto_final/projetofinal/map.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"map.h"
+	"robot_list.h"
+	"graphic.h"
+	"move_robot.h"
+
+1432331883 /home/pedro/Documents/projeto_final/projetofinal/map.h
+
+1432331416 /home/pedro/Documents/projeto_final/projetofinal/robot_list.h
+
+1432331673 source:/home/pedro/Documents/projeto_final/projetofinal/robot_list.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"map.h"
+	"robot_list.h"
+	"graphic.h"
+	"move_robot.h"
+
+1432331307 /home/pedro/Documents/projeto_final/projetofinal/graphic.h
+
+1432324592 source:/home/pedro/Documents/projeto_final/projetofinal/move_robot.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"map.h"
+	"robot_list.h"
+	"graphic.h"
+	"move_robot.h"
+
+1432307302 /home/pedro/Documents/projeto_final/projetofinal/move_robot.h
+
